@@ -1,0 +1,5 @@
+pre_trained_weights里存放的是：vmamba_small_e238_ema.pth
+
+model_data里存放的是：mobilenet_v2.pth.tar
+
+同级目录还需要放一个：swin_tiny_patch4_window7_224.pth

@@ -1,0 +1,8 @@
+__pycache__/
+*.pth
+*.pt
+weights/
+pre_trained_weights/
+logs/
+*.log
+.DS_Store
